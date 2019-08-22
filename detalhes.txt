@@ -1,0 +1,15 @@
+Seus Desempenhos
+=====================================================================
+Tempo por questao => tempo total / quantidade de questoes
+questoes feitas => quantidade de questoes - questoes em branco
+visao da atividade => REMOVER
+acertos = quantidade de acertos
+eficiencias = acertos / questoes feitas
+
+Por Nivel
+-----------------
+Aba -> Visao da Atividade => REMOVER
+
+
+-------------------------------------------------------------------
+Nova Funcionalidade (acrescentar no menu)
