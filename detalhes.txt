@@ -13,3 +13,22 @@ Aba -> Visao da Atividade => REMOVER
 
 -------------------------------------------------------------------
 Nova Funcionalidade (acrescentar no menu)
+
+
+------------
+h. CANCELADO
+
+
+Reuniao (30/09/2019)
+===================================================================
+[ok] 1. Enviar por email
+        Exibir a mensagem: Lista enviada para o email cadastrado
+2. Menu Gabarito
+    Exibe atividades entregues
+    Ao clicar na atividade exibe o gabarito
+    Cada questao => Vermelho se questao errada
+                    Verde na resposta correta
+                    Se aluno acertou mostra o check (verde) na resposta com fundo verde
+    Na linha de baixo a percentagem de marcacoes de cada alternativa (inclusive o branco)
+
+3. Atividade para o perfil Web deve marcar a checkbox FREE
